@@ -87,11 +87,9 @@ if (isset($_GET['islandOfPersonalityID'])) {
     }
     ?>
 
-    <div class="text-center">
-        <button onclick="window.location.href='index.php'" class="btn btn-secondary py-3 mx-5">
-            Back
-        </button>
-    </div>
+    <p class="w3-center"><a href="index.php"
+            class="w3-button w3-black w3-round w3-padding-large w3-large">Back</a></p>
+
 
 </body>
 
